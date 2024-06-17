@@ -1,0 +1,41 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    h2{
+        font-size: 36px;
+        text-align: center;
+    }
+
+    p{
+        color: #BCEA95;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+    }
+
+    img{
+        margin-top: 100px;
+        width: 390px;
+        align-self: center;
+    }
+
+    ul{
+        text-align: center;
+    }
+}
